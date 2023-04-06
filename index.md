@@ -1,4 +1,5 @@
-# Welcome to the 1st lab of CSE 15L by Kevin Nie.
+# Welcome to the First lab of CSE 15L by Kevin Nie!
+*This is an tutorial about how to log into a course-specific account on ieng6
 
 1. First, you should download Virtual Studio Code. This is a very powerful tool.
    [Link]https://code.visualstudio.com
