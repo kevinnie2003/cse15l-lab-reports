@@ -11,4 +11,4 @@
 ssh cs15lsp23??@ieng6.ucsd.edu
 # Where ?? is your identical two letter
 ```
-After entering your password, you will log in and see a similar output:<img width="700" alt="截屏2023-04-05 17 45 53" src="https://user-images.githubusercontent.com/122497019/230249502-f6d9302b-2c4b-4283-8d76-10abe0b90b7e.png">
+   After entering your password, you will log in and see a similar output:<img width="700" alt="截屏2023-04-05 17 45 53" src="https://user-images.githubusercontent.com/122497019/230249502-f6d9302b-2c4b-4283-8d76-10abe0b90b7e.png">
