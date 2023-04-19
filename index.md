@@ -1,5 +1,5 @@
 # Lab 1 Instructions
-# By Kevin Nie
+By Kevin Nie
 *This is an tutorial about how to log into a course-specific account on ieng6.*
 
 1. First, you should download Virtual Studio Code. This is a very powerful tool.
